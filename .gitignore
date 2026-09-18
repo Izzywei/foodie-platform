@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+*.log
+
+deploy/bundle/
+deploy/*.tar.gz
